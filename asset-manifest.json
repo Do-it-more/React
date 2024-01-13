@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/React/static/css/main.e6c13ad2.css",
+    "main.js": "/React/static/js/main.bed8f052.js",
+    "static/js/787.1e48cc4a.chunk.js": "/React/static/js/787.1e48cc4a.chunk.js",
+    "static/media/img5.jpeg": "/React/static/media/img5.34f02321965c55aceaf5.jpeg",
+    "static/media/img4.jpeg": "/React/static/media/img4.ace0f85da91bdb85b673.jpeg",
+    "static/media/img6.jpeg": "/React/static/media/img6.847a361285a71da8885a.jpeg",
+    "static/media/img3.jpg": "/React/static/media/img3.637393e12f6587f276ed.jpg",
+    "static/media/img2.jpg": "/React/static/media/img2.8c85255b193f924f92c2.jpg",
+    "static/media/img1.jpg": "/React/static/media/img1.27373796d7143aca5601.jpg",
+    "index.html": "/React/index.html",
+    "main.e6c13ad2.css.map": "/React/static/css/main.e6c13ad2.css.map",
+    "main.bed8f052.js.map": "/React/static/js/main.bed8f052.js.map",
+    "787.1e48cc4a.chunk.js.map": "/React/static/js/787.1e48cc4a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.bed8f052.js"
+  ]
+}
